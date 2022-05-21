@@ -7,8 +7,8 @@ const Header = () => {
       <Navbar bg="light" expand="lg"  collapseOnSelect>
       <Container>
         <LinkContainer to="/">
-        <Navbar.Brand>Anoor Amman</Navbar.Brand>  
-        </LinkContainer>            
+        <Navbar.Brand>Tekpa 2</Navbar.Brand>  
+        </LinkContainer>          
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className='navbar-nav ml-auto'>
