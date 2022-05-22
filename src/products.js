@@ -2,12 +2,12 @@
 export const products =[
   {
     _id: '1',
-    name: 'Red Floral Saree',
-    image:'/images/saree1.jpg',
+    name: 'Xenon',
+    image:'/images/xenon.jfif',
     description:
         'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working ',
-    brand: 'arfin',
-    category: 'silk',
+    brand: 'TEK',
+    category: 'Plaster Ink',
     price: 400,
     countInStock: 3,
     rating: 3.5,
@@ -15,18 +15,12 @@ export const products =[
   },
   {
     _id: '2',
-    name: 'Saree Mall Floral Saree', 
-    image: '/images/saree2.jpg',
+    name: 'Texi Plast', 
+    image: '/images/texiplast.jfif',
     description:
-        <p>Dress up or dress down this modish saree for any ethnic function. It includes a captivating organza blouse and fabric to add a touch of charm to your appearance. <br/>
-        Pretty pink shade printed saree<br/>
-        Organza blouse<br/>
-        Organza<br/>
-        Organza, dry clean<br/>
-        The saree comes with an unstitched blouse piece<br/>
-        The blouse worn by the model might be for modelling purpose only. Check the image of the blouse piece to understand how the actual blouse piece looks like.,</p>,
-    brand: 'nandhini',
-    category: 'Pattu',
+         'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working ',
+    brand: 'TEK',
+    category: 'Solid Ink',
     price: 500,
     countInStock: 10,
     rating: 2.0,
@@ -34,15 +28,28 @@ export const products =[
   },
   {
     _id: '3',
-    name: 'Dark black saree',
-    image: '/images/saree3.jpg',
+    name: 'Atex',
+    image: '/images/atex.jfif',
     description:
         'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working ',
-    brand: 'Apple',
-    category: 'Pattu',
+    brand: 'TEK',
+    category: 'Gas Ink',
     price: 700,
     countInStock: 10,
     rating: 5,
     numReviews: 7,
+  },
+  {
+    _id: '4',
+    name: 'Plastisol',
+    image: '/images/plastisol.jfif',
+    description:
+        'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working ',
+    brand: 'TEK',
+    category: 'Nitro Ink',
+    price: 850,
+    countInStock: 9,
+    rating: 5,
+    numReviews: 9,
   }
 ];

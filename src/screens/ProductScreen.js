@@ -91,27 +91,27 @@ const ProductScreen = ({match})=>{
         <ListGroup variant='flush'>
           <ListGroupItem>
             <h4 className='text-uppercase'>
-               reviews
+               Feedbacks:
             </h4>
           </ListGroupItem>
           <ListGroupItem className='mx-4'>
             <Row>
-             <span className='text-muted'>Yamini</span>
+             <span className='text-muted'>Majestic Knits</span>
              <Rating value={product.rating}/>
              <span className='text-muted'>2020-09-27</span>
             </Row>
             <Row>
-            <p className='text-secondary'> These are great saree!</p>
+            <p className='text-secondary'>Great Quality with nominal price</p>
             </Row>
           </ListGroupItem>
           <ListGroupItem className='mx-4'>
             <Row>
-             <span className='text-muted'>Ankita</span>
+             <span className='text-muted'>Kandhan Prints</span>
              <Rating value={product.rating}/>
              <span className='text-muted'>2020-09-24</span>
             </Row>
             <Row>
-            <p className='text-secondary'> Nice Color.I like it</p>
+            <p className='text-secondary'>They have the Stock anytime, during the shipment time it helps me a lot!</p>
             </Row>
           </ListGroupItem>
         </ListGroup>
