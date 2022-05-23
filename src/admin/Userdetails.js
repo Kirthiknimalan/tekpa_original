@@ -20,8 +20,8 @@ const Useradmin = () => {
                     <tbody>
                         <tr>
                             <td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>Noor Arfin</td>
-                            <td>noorarfin7728@gmail.com</td>
+                            <td>Krishnan</td>
+                            <td>majesticprints@gmail.com</td>
                             <td>
                             <Row className='m-0 p-0'>
                                 <Col className='text-center bg-white'>
@@ -35,8 +35,8 @@ const Useradmin = () => {
                         </tr>
                         <tr>
                             <td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>Ranjith</td>
-                            <td>ranjith7125@gmail.com</td>
+                            <td>Karthik</td>
+                            <td>karthik_prints@gmail.com</td>
                             <td>
                             <Row className='m-0 p-0' >
                                 <Col className='text-center bg-white'>
@@ -50,8 +50,8 @@ const Useradmin = () => {
                         </tr>
                         <tr>
                         <   td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>Nanthini</td>
-                            <td>nanthinir.19cse@kongu.edu</td>
+                            <td>Vasanth</td>
+                            <td>kandhanprints@gamil.com</td>
                             <td>
                             <Row className='m-0 p-0' >
                                 <Col className='text-center bg-white'>

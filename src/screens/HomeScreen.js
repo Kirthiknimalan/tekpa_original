@@ -7,8 +7,8 @@ const HomeScreen = () => {
   return (
     <div>
       <div className='container mw-100' >
-      <div>
-        <Row className="m-30"> 
+      <div className="home1">
+        <Row className=""> 
            <Col md={4} className="justify-content-center row align-items-center">
             <div className="">
                 <img className="img-responsive center-block d-block mx-auto" src="/images/home1.jfif" alt='home' width="300" height="300"/>

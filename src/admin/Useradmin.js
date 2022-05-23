@@ -22,10 +22,10 @@ const Useradmin = () => {
                     <tbody>
                         <tr>
                             <td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>Pinnk saree</td>
+                            <td>Xenon</td>
                             <td>₹890</td>
-                            <td>cotton</td>
-                            <td>Anoor</td>
+                            <td>Gas Ink</td>
+                            <td>TEK</td>
                             <td>
                             <Row className='m-0 p-0'>
                                 <Col className='text-center bg-white'>
@@ -39,10 +39,10 @@ const Useradmin = () => {
                         </tr>
                         <tr>
                             <td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>Red floral Saree</td>
+                            <td>Plastisol</td>
                             <td>₹500</td>
-                            <td>Silk</td>
-                            <td>Floral</td>
+                            <td>Solid Ink</td>
+                            <td>TEK</td>
                             <td>
                             <Row className='m-0 p-0' >
                                 <Col className='text-center bg-white'>
@@ -56,10 +56,10 @@ const Useradmin = () => {
                         </tr>
                         <tr>
                         <   td>8ds734bf7f39c73ffb3894fb</td>
-                            <td>reddragon</td>
+                            <td>TexiPlast</td>
                             <td>₹1000</td>
-                            <td>cotton</td>
-                            <td>foral</td>
+                            <td>Ink</td>
+                            <td>TEK</td>
                             <td>
                             <Row className='m-0 p-0' >
                                 <Col className='text-center bg-white'>

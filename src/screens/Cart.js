@@ -29,37 +29,12 @@ const Cart = () => {
                   </Col>
                   <Col md ={3} className='d-flex justify-content-center align-items-center'>
                       <span className='text-center text-muted'>
-                          Red saree - Silk
+                          Xenon
                       </span>
                   </Col>
                   <Col md ={2} className='d-flex justify-content-center align-items-center'>
                   <span className='text-center text-muted'>
                      ₹600
-                  </span>
-                  </Col>
-                  <Col md ={3} className='d-flex justify-content-center align-items-center'>
-                      <Row className='d-flex justify-content-center align-items-center'>
-                        <Col><button className="btn btn-sm shadow-none" onClick={incrementCount}> <span className='fa-2x'>+</span></button></Col>
-                        <Col><div>{count}</div></Col>
-                        <Col ><button className="btn btn-sm shadow-none" onClick={decrementCount}><span className='fa-2x'>-</span></button></Col>
-                      </Row>
-                  </Col>
-                  <Col md ={2} className='d-flex justify-content-center align-items-center'>
-                  <MdDelete className='text-dark'/>
-                  </Col>
-              </Row>
-              <Row className='text-center'>
-                  <Col md ={2}>
-                  <img src="/images/saree2.jpg" class="rounded-square shadow-4 w-50"  alt="Avatar" />
-                  </Col>
-                  <Col md ={3} className='d-flex justify-content-center align-items-center'>
-                      <span className='text-center text-muted'>
-                          Pink saree - Silk
-                      </span>
-                  </Col>
-                  <Col md ={2} className='d-flex justify-content-center align-items-center'>
-                  <span className='text-center text-muted'>
-                          600
                   </span>
                   </Col>
                   <Col md ={3} className='d-flex justify-content-center align-items-center'>

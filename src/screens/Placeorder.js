@@ -9,7 +9,7 @@ const Placeorder = () => {
                 <ListGroup.Item className='mb-4'>
                 <Row>
                     <Col className='mb-2'><h3 className='mb-3'>Shipping</h3>
-                    <span className='muted'>Address: 10 alangatanoor ,Naduvaneri,637504</span></Col>
+                    <span className='muted'>Address: ...</span></Col>
                 </Row>
                 </ListGroup.Item>
                 <ListGroup.Item className='mb-4'>
@@ -26,15 +26,9 @@ const Placeorder = () => {
                         <ListGroup variant='flush'>
                         <ListGroup.Item>
                         <Row>
-                            <Col>RED SAREE-SILK SAREE</Col>
+                            <Col>Xenon</Col>
                             <Col>1. RS.600</Col>
                         </Row>
-                        <ListGroup.Item>
-                        <Row>
-                            <Col>PINK SAREE-SILK SAREE</Col>
-                            <Col>2. RS.600</Col>
-                        </Row>
-                </ListGroup.Item>
                 </ListGroup.Item>
                         </ListGroup>
                     </card>
@@ -50,7 +44,7 @@ const Placeorder = () => {
                 <ListGroup.Item>
                     <Row>
                         <Col>Items</Col>
-                        <Col>1000</Col>
+                        <Col>1</Col>
                     </Row>
                 </ListGroup.Item>
                 <ListGroup.Item>
@@ -68,7 +62,7 @@ const Placeorder = () => {
                 <ListGroup.Item>
                     <Row>
                         <Col>Total</Col>
-                        <Col>1180</Col>
+                        <Col>780</Col>
                     </Row>
                 </ListGroup.Item>
                 <ListGroup.Item>
